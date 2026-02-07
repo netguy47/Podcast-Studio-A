@@ -1,0 +1,7 @@
+{
+  "name": "Podcast Studio AI",
+  "description": "A professional AI-powered podcast generator that converts scripts into multi-speaker audio using Gemini TTS technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
